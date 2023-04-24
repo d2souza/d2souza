@@ -1,7 +1,7 @@
 Olá! 👋
 --
 ##
-🔭 Trabalho no Assaí Atacadista
+🔭 Trabalho no Grupo Azzurra
 
 🌱 Estou atualmente estudando JAVA (dificil demais)
 
