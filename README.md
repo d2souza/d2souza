@@ -5,7 +5,7 @@ Olá! 👋
 
 🌱 Estou atualmente estudando JAVA (dificil demais)
 
-[![D2souza's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2souza&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github.com/d2souza/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=d2souza&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github.com/d2souza/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d2souza&layout=compact)](https://github.com/d2souza/github-readme-stats)
 
 <div style= "display: inline_block"><br>
