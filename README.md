@@ -1,9 +1,9 @@
 Olá! 👋
 --
 ##
-🔭 Trabalho no Grupo Azzurra
+🔭 Procurando uma oportunidade
 
-🌱 Estou atualmente estudando JAVA (dificil demais)
+🌱 Estou atualmente estudando Python
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D2souza&count_private=true&show_icons=true&include_all_commits=true&theme=chartreuse-dark&icon_color=00FF00&border_color=FF00FF&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
